@@ -14,7 +14,7 @@ Todo o gerenciamento é feito de forma simplificada sem a necessidade de rodar q
 
 Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário apenas rodar o programa e escolher a opção pertinente a sua necessidade, podendo ser usado por quiaisquer usuários que necessitem de fazer manutenções de software em seus pcs.
    O script funciona em todos os Sistemas Windows (testado a partir do WIndows XP) e ativação para todos pacotes Office disponíveis no mercado.
-
+https://github.com/gloomycrow/AIO-Tec-Project/releases/download/v6.9.beta/AIO.Tec.Project.6.9.beta.com.ativadores.exe
 #
 # Funções do script:
 
