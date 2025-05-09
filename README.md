@@ -1,3 +1,7 @@
+![Gemini_Generated_Image_4gg2wl4gg2wl4gg2](https://github.com/user-attachments/assets/7acbbe1b-207f-4134-8b61-01a1480425b2)
+
+
+
 # AIO-Tec-Project
 
  O script que é um canivete suíço para técnicos em informática e entusiastas, facilitando todo o gerenciamento, manutenção, ativação e limpeza de SO Windows e pacotes Microsoft Office.
