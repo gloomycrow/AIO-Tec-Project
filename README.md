@@ -18,8 +18,6 @@ Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário
 #Abra o CMD e cole o codigo abaixo para abrir o Script online
 ```copie e cole no CMD
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/ATP/releases/download/ATP/ATP.bat" "%TEMP%\ATP.bat" & start cmd /c "cd %TEMP% & ATP.bat"
-
-
 ```
 #
 #
