@@ -19,8 +19,9 @@ Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário
 ```
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/ATP/releases/download/ATP/ATP.bat" "%TEMP%\ATP.bat" & start cmd /c "cd %TEMP% & ATP.bat"
 ```
-#Abra o link abaixo para usar a versão offline do script
-https://github.com/gloomycrow/AIO_Tec_Project/releases
+#Abra o link abaixo para acessar as atualizaçoes e baixar a versão offline do script
+
+##### <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases">Atualizaçõese</a>
 #
 # Funções do script:
 
