@@ -19,7 +19,7 @@ Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário
 # Windows 8, 10 e 11
 ### Abra o PowerShell como Administrador e cole o codigo abaixo para abrir o Script online
 ```
-bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/ATP/releases/download/ATP/ATP.bat" "%TEMP%\ATP.bat" & start cmd /c "cd %TEMP% & ATP.bat"
+iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe' -o "$env:TEMP\ATP.exe"; start "$env:TEMP\ATP.exe"
 ```
 #
 #
