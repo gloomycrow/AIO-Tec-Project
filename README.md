@@ -15,9 +15,18 @@ Todo o gerenciamento é feito de forma simplificada sem a necessidade de rodar q
 Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário apenas rodar o programa e escolher a opção pertinente a sua necessidade, podendo ser usado por quiaisquer usuários que necessitem de fazer manutenções de software em seus pcs.
    O script funciona em todos os Sistemas Windows (testado a partir do WIndows XP) e ativação para todos pacotes Office disponíveis no mercado.
 #
-# Abra o CMD como Administrador e cole o codigo abaixo para abrir o Script online
+#
+# Windows 8, 10 e 11
+### Abra o PowerShell como Administrador e cole o codigo abaixo para abrir o Script online
 ```
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/ATP/releases/download/ATP/ATP.bat" "%TEMP%\ATP.bat" & start cmd /c "cd %TEMP% & ATP.bat"
+```
+#
+#
+# Windows 7 e anteriores
+### Abra o CMD como Administrador e cole o codigo abaixo para abrir o Script online
+```
+bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe"
 ```
 # Abra o link abaixo para acessar as atualizaçoes e baixar a versão offline do script
 
