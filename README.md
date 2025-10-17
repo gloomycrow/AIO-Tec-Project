@@ -33,51 +33,7 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 
 #####  <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases">Atualizações</a>
 #
-# Funções do script:
 
-* Resetar Windows Update.                                                         
-* Checar e reparar todos os discos.                                               
-* Escanear e reparar erros de sistema.                                            
-* Ferramenta de Diagnostico do DirectX.                                           
-* Abrir limpeza de disco.                                                         
-* WinSAT (testes de avaliacao do sistema)                                        
-* Criar ponto de restauracao do sistema.                                      
-* Apagar arquivos de apps da IOBIT.                           
-* Limpeza de dados de lixo de navegadores, arquivos temporarios.                 
-* Limpeza de  pasta WinSxS                                                       
-* Buscar atualizacoes Windows Update                                             
-* Restaurar windows 10.                                               
-* Executar manutencao automatica                                        
-* Ver informacoes detalhadas do sistema                                   
-* Opcoes de energia                                                        
-* Ferramentas de monitoramento de sistema e logs.                       
-* Limpa a fila de impressao                                             
-* Ativacao Windows, Office e resolver problemas de ativacao office 
-* Ativar ou desativar Windows Update                                
-* Resetar rede.                                                          
-* Abertura das Propriedades de internet.                            
-* Visualizacao das informacoes detalhadas do pc (msinfo32). 
-* Abertura do gerenciamento de computador. 
-* Abertura de Seguranca e manutencao do windows.
-* Abertura de Controle da conta do usuario (UAC).
-* Abrir Editor de registros.
-* Restaurar sistema.
-* Resolver bug impressora.
-* Resolver erro NetFramework 3.5 em apps Windows 10 e 11.
-* Backup e restauracao de drivers.
-* Verificar problemas com drivers.
-* Abrir ferramenta de diagnostico de memoria.
-* Abrir removedor de software mal intencionado.
-* Gerenciamento de disco.
-* Editor de politicas de grupo.
-* Console de gerenciamento de pastas compartilhadas.
-* Gerenciar usuarios e grupos locais.
-* Gerenciamento de impressao.
-* Politica de seguranca local.
-* Windows Defender Firewall com Seguranca Avancada.
-* Gerenciamento de TPM.
-* Acesso ao canal do projeto no Telegram.
-* Acesso ao grupo de suporte no Telegram;
 * Reiniciar o PC.
 * Desligar pc.
 
