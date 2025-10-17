@@ -25,6 +25,7 @@ iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe
 #
 # Windows 7 e anteriores
 ### Abra o CMD como Administrador e cole o codigo abaixo para abrir o Script online
+
 ```
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe"
 ```
