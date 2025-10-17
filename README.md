@@ -38,4 +38,4 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 ##
 # Links do projeto:
 ##### <a href="https://t.me/+5y4zH3zBIrthMzAx">Grupo de suporte</a>
-##### <a href="https://t.me/Petrovichprojects">Canal de anulações</a>
+##### <a href="https://t.me/Petrovichprojects">Canal de atualizações</a>
