@@ -14,7 +14,7 @@ iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe
 ```
 #
 #
-# Windows 7 and earlier
+## Windows 7 and earlier
 ### Open CMD as an Administrator and paste the code below to open the online script.
 
 ```
@@ -27,5 +27,5 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 
 ##
 # Project links:
-##### <a href="https://t.me/+5y4zH3zBIrthMzAx">Support Group</a>
-##### <a href="https://t.me/Petrovichprojects">Updates Channel</a>
+#### <a href="https://t.me/+5y4zH3zBIrthMzAx">Support Group</a>
+#### <a href="https://t.me/Petrovichprojects">Updates Channel</a>
