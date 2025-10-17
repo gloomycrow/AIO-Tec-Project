@@ -20,7 +20,7 @@ iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe
 ```
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe"
 ```
-# Open the link below to access updates and download the offline version of the script.
+# Click below to download the offline version.
 
 ##### <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases">Updates</a>
 #
