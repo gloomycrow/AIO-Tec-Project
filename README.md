@@ -27,5 +27,5 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 
 ##
 # Project links:
-#### <a href="https://t.me/+5y4zH3zBIrthMzAx">Support Group</a>
+#### <a href="https://t.me/Petrovichprojectsgroup">Support Group</a>
 #### <a href="https://t.me/Petrovichprojects">Updates Channel</a>
