@@ -34,8 +34,6 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 #####  <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases">Atualizações</a>
 #
 
-* Reiniciar o PC.
-* Desligar pc.
 
 ##
 # Links do projeto:
