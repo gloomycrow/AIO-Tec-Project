@@ -10,7 +10,7 @@ The script works on all Windows systems (tested starting with Windows XP) and is
 ## Windows 8, 10, and 11
 ### Open PowerShell as an administrator and paste the code below to open the online script.
 ```
-iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe' -o "$env:TEMP\ATP.exe"; start "$env:TEMP\ATP.exe"
+iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe' -o "$env:TEMP\ATP.exe"; start "$env:TEMP\ATP.exe"; Exit
 ```
 #
 #
