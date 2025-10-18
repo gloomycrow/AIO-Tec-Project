@@ -18,7 +18,7 @@ iwr 'https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe
 ### Open CMD as an Administrator and paste the code below to open the online script.
 
 ```
-bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe"
+bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe" & exit
 ```
 # Click below to download the offline version.
 
