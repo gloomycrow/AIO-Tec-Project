@@ -8,7 +8,7 @@ No prior knowledge is required to use it; simply run the program and choose the 
 The script works on all Windows systems (tested starting with Windows XP) and is activated for all Office suites available on the market.
 #
 ## Windows 8, 10, and 11
-### Open PowerShell as an administrator and paste the code below to open the online script.
+#### Open PowerShell as an administrator and paste the code below to open the online script.
 ```
 irm https://raw.githubusercontent.com/gloomycrow/ATP/ATP/ATP.ps1 | iex
 ```
@@ -16,12 +16,12 @@ irm https://raw.githubusercontent.com/gloomycrow/ATP/ATP/ATP.ps1 | iex
 #
 ## Windows 7 and earlier
 
-### Open PowerShell as an administrator and paste the code below to open the online script.
+#### Open PowerShell as an administrator and paste the code below to open the online script.
 ```
 iex ((New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/gloomycrow/ATP/ATP/ATP.ps1'))
 ```
 
-### Our pen CMD as an Administrator and paste the code below to open the online script.
+#### Our pen CMD as an Administrator and paste the code below to open the online script.
 
 ```
 bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe" "%TEMP%\ATP.exe" & start "" "%TEMP%\ATP.exe" & exit
