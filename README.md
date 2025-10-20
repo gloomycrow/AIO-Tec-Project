@@ -29,12 +29,12 @@ bitsadmin /transfer ATPDownload /download /priority normal "https://github.com/g
 
 #
 #
-# Click below to download the offline version.
+## Click below to download the offline version.
 
-## <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe">download offline version</a>
+### <a href="https://github.com/gloomycrow/AIO_Tec_Project/releases/download/ATP/ATP.exe">download offline version</a>
 #
 
 ##
 # Project links:
-#### <a href="https://t.me/Petrovichprojectsgroup">Support Group</a>
-#### <a href="https://t.me/Petrovichprojects">Updates Channel</a>
+### <a href="https://t.me/Petrovichprojectsgroup">Support Group</a>
+### <a href="https://t.me/Petrovichprojects">Updates Channel</a>
